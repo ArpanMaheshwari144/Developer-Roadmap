@@ -1,4 +1,4 @@
-# Java Developer Roadmap
+# Developer Roadmap
 
 A comprehensive collection of resources for Java developers - from technical skills to job hunting strategies.
 
@@ -143,6 +143,7 @@ Practice these key DSA topics with the provided resources:
 ### 1. Two Pointers
 - https://lnkd.in/egfNhPKZ
 - https://lnkd.in/eaj_4Yys
+- https://lnkd.in/gXsz-sGb
 
 ### 2. Intervals
 - https://lnkd.in/eGv_iaGZ
@@ -156,6 +157,7 @@ Practice these key DSA topics with the provided resources:
 ### 4. Dynamic Programming
 - https://lnkd.in/euzKZUSF
 - https://lnkd.in/eEGGuzZZ
+- https://lnkd.in/gzbG_emR
 
 ### 5. DFS-BFS
 - https://lnkd.in/euvQM2R3
@@ -167,22 +169,40 @@ Practice these key DSA topics with the provided resources:
 - https://lnkd.in/eRyYVw9E
 - https://lnkd.in/dp4NUqcg
 - https://lnkd.in/dTDhWNqi
+- https://lnkd.in/gqXy9f35
 
 ### 7. Tree Traversal
 - https://lnkd.in/egpV9fyR
 - https://lnkd.in/eH6PsJC7
 - https://lnkd.in/dhfbbMAx
+- https://lnkd.in/gvC9JcaM
 
 ### 8. Sliding Window
 - https://lnkd.in/ePckKMNi
 - https://lnkd.in/e7vBRUrc
 - https://lnkd.in/eSUh6xJP
 - https://lnkd.in/eMFFuHrn
+- https://lnkd.in/gSpHQNyK
 
 ### 9. Backtracking
 - https://lnkd.in/e7c6XbdG
 - https://lnkd.in/eGyS6q3R
 - https://lnkd.in/eTZDncpG
+
+### 10. Linked List
+- https://lnkd.in/gXV6svPk
+
+### 11. Greedy
+- https://lnkd.in/gfCe5JJe
+
+### 12. Graphs
+- https://lnkd.in/gTc3X5DC
+
+### 13. Monotonic Stack
+- https://lnkd.in/gsGkfx99
+
+### 14. Bit Manipulation
+- https://lnkd.in/g2Hx8giu
 
 ## Problem-Solving Philosophy
 
