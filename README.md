@@ -270,6 +270,15 @@ Remember that exceptional software development centers around:
 39. Count the number of inversions in an array.
 40. Find the shortest path in a maze.
 
+After leaving Companies documants collect:
+1. Salary Slips
+2. Reliving letter
+3. Offer/Joining letter
+4. Increment letter
+5. Experince letter
+6. Form 16
+7. bank Statements
+
 ---
 
 Contributions welcome! Submit pull requests or raise issues to suggest additional resources for this roadmap.
