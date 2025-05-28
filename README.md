@@ -279,6 +279,22 @@ After leaving Companies documants collect:
 6. Form 16
 7. bank Statements
 
+
+1. Longest Increasing Subsequence: A fundamental DP problem with various applications. 📈
+Link: https://lnkd.in/gu-RK9N8
+
+2. Knapsack Concepts: Problems like "Partition Equal Subset Sum" are excellent for understanding core Knapsack principles. 🎒
+Link: https://lnkd.in/gXJ63pTF
+
+3. Maximum Subarray: While Kadane's algorithm is efficient, understanding the DP approach is beneficial, as it can be extended to more complex scenarios. 📊
+Link: https://lnkd.in/gGcYGFCS
+
+4. Longest Increasing Subsequence (LIS): ⬆️ Finding the longest subsequence of a given sequence such that all elements of the subsequence are in strictly increasing order.
+Link: https://lnkd.in/gYHPuudC
+
+5. Optimal Strategy for a Game: 🎲 Given a row of coins, two players take turns picking a coin from either end. The goal is to maximize your own score, assuming your opponent also plays optimally.
+Link: https://lnkd.in/g25pcdz4
+
 ---
 
 Contributions welcome! Submit pull requests or raise issues to suggest additional resources for this roadmap.
